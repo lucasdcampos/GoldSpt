@@ -2,8 +2,10 @@
   <img src="res/img/spot/spot-logo.png" width="480px">
 </div>
 
-# 🎮 Spot Game Engine
+# 🎮 GoldSpt (Spot)
 Welcome to the Spot Game Engine, a work-in-progress game engine built entirely in C#.
+
+> Warning: This repository is deprecated and no longer receiving updates. A new repository will be available soon.
 
 You can explore the source code and contribute if you wish. Here's how you can get started:
 
